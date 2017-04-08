@@ -1,0 +1,26 @@
+{
+  "name": "dotnet-web-npm-scripts",
+  "version": "1.0.0",
+  "description": "Integrating NPM scripts into new Dotnet web application project for SASS transnsformation (no more Gulpfile.js in Dotnet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterblazejewicz/dotnet-web-npm-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterblazejewicz/dotnet-web-npm-scripts/issues"
+  },
+  "homepage": "https://github.com/peterblazejewicz/dotnet-web-npm-scripts#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "2.2.0",
+    "jquery-validation": "^1.16.0",
+    "jquery-validation-unobtrusive": "^3.2.6"
+  }
+}
