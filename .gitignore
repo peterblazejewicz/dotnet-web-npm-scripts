@@ -254,3 +254,6 @@ paket-files/
 # transpiled output
 wwwroot/js/vendor.*
 wwwroot/js/validation.*
+
+# appsettings based on ENV
+appsettings.*.json
